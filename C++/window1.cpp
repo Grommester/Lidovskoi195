@@ -11,14 +11,7 @@ using namespace std;
 Mat img;
 int main()
 {
-	// setlocale(LC_ALL, "Russian");
-	//char filename[80];//road.jpg
-	//cout << "Vvedite imya faila, v kotoriy hotite nesti izmeneniya, i najmite Энтер" << endl;
-	//cin.getline(filename, 80);
-	//cout << "Otkroy file";
-	//cout << filename << endl;
 
-	//Mat img = imread("road.jpg", 1);
 
 	int height = 520;
 	int width = 840;
